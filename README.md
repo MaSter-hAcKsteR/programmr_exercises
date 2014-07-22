@@ -8,6 +8,4 @@ I hope to put my solutions up!
 
 the challanges are at http://www.programmr.com/
 
-flag{coOlet_ruSSiAn_haCKER}
-
-THe sulutions while be n C#
+The solutions will be in C#
